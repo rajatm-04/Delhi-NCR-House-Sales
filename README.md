@@ -12,11 +12,6 @@ The dashboard explores how property features like size, condition, furnishing st
 
 ---
 
-## 🔗 Live Dashboard
-👉 [View on Tableau Public](#) ← *Replace with your Tableau Public link*
-
----
-
 ## 📊 Dashboard Features
 
 | Sheet | Description |
